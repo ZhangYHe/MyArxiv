@@ -22,6 +22,11 @@ limit = 200
 category = "cs.LG"
 title = "Machine Learning"
 
+[[sources]]
+limit = 150
+category = "cs.DB"
+title = "Databases"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
