@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 5
 cache_url = "https://ZhangYHe.github.io/MyArxiv/cache.json"
 
 [[sources]]
@@ -26,6 +26,11 @@ title = "Machine Learning"
 limit = 150
 category = "cs.DB"
 title = "Databases"
+
+[[sources]]
+limit = 150
+category = "cs.MM"
+title = "Multimedia"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
