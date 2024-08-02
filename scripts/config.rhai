@@ -2,7 +2,8 @@ let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 //let titles_model = ["BERT", "GPT", "Transformer"];
 let titles_model = [];
 //let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
-let titles_method = ["Retrieval", "Rank", "Table", "Tabular"];
+// "Retrieval", "Rank", 
+let titles_method = ["Table", "Tabular", "Spreadsheet"];
 let titles =  titles_model + titles_method + titles_type;
 //let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
 let authors_array = [];
